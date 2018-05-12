@@ -1,4 +1,5 @@
 _repo: The-Minister-s-Wooing_47958
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Browne, Hablot Knight
@@ -12,6 +13,9 @@ contributor:
     gutenberg_agent_id: '24934'
     url: http://www.gutenberg.org/2009/agents/24934
     wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+covers:
+- cover_type: archival
+  image_path: 47958-h/images/cover.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -33,6 +37,8 @@ description: Mary Scudder lives with her widowed mother in a modest middle-class
   the good Doctor. With important insights on slavery, history, and gender, as well
   as characters based on historical figures, it is an attempt through fiction to create
   a moral, intellectual, and affective history for New England.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47958#The-Minister-s-Wooing
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
